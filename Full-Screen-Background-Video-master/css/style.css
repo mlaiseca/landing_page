@@ -61,6 +61,8 @@ body {
   font-size: 22px;
   text-decoration: none;
   border: solid 4px #ff3c64;
+  white-space: normal;
+  width: 100px;
 }
 
 /* =============================================================================
