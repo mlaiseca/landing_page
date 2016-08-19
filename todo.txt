@@ -1,0 +1,7 @@
+set badges for 
+
+App Store: <https://developer.apple.com/app-store/marketing/guidelines/#downloadOnAppstore>
+
+Play Store: <https://play.google.com/intl/en_us/badges/>
+
+
